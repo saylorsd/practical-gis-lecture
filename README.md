@@ -17,3 +17,6 @@ Collection of resources and examples to go along with a lecture on practical gis
 * [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) - a bit complicated, but renders vector grapics very quickly. 
 * [react-map-gl](https://uber.github.io/react-map-gl/#/) - [React](https://reactjs.org/) components that render Mapbox GL maps. 
 
+## Other Resources
+* [Color Brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) - curated color ramps
+* [Leaftlet Privoder Demo](https://leaflet-extras.github.io/leaflet-providers/preview/) - demos and example code for different basemap tile servives
