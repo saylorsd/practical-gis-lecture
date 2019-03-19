@@ -29,3 +29,4 @@ Collection of resources and examples to go along with a lecture on practical web
 * [Animated PGH Fires](https://wprdc-maps.carto.com/u/wprdc/builder/3068e679-6da8-4e3c-a4a7-a9ef94d166b8/embed)
 * [Dumpster Fires](https://wprdc-maps.carto.com/u/wprdc/builder/2f0aa3d6-e945-4d8e-96a2-d9cd60a38aa0/embed)
 * [Super Mario Style](https://api.tiles.mapbox.com/v4/duncangraham.552f58b0/page.html?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ#5/36.580/-80.156)
+* [8Bit NY](http://8bitcity.com/map?New%20York)
