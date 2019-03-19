@@ -1,9 +1,14 @@
 # Applied GIS on the Web
 Collection of resources and examples to go along with a lecture on practical web GIS.
 
+### [Slides (2019-03-19)](https://docs.google.com/presentation/d/1S8TPz5dEc4HpCpmMA7GbDDQ4vZCmkAGn4lR0vuC1ga8/edit?usp=sharing)
+
+### [CodeAcademy: JavaScript Introduction](https://www.codecademy.com/paths/web-development/tracks/getting-started-with-javascript/modules/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/intro)
+
 ## Foundational Topics
 * GIS
 * Web development basics (HTML, CSS, JS)
+  * [Introductory Courses](https://www.codecademy.com/learn/paths/web-development)
 * SQL (particularly [Postgres](https://www.postgresql.org/) dialect and [PostGIS](https://postgis.net/) functions)
 
 ## Online Desktop-like Applications
