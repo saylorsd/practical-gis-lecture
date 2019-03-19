@@ -3,7 +3,7 @@ Collection of resources and examples to go along with a lecture on practical web
 
 ### [Slides (2019-03-19)](https://docs.google.com/presentation/d/1S8TPz5dEc4HpCpmMA7GbDDQ4vZCmkAGn4lR0vuC1ga8/edit?usp=sharing)
 
-### [CodeAcademy: JavaScript Introduction](https://www.codecademy.com/paths/web-development/tracks/getting-started-with-javascript/modules/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/intro)
+### [CodeAcademy: Web Development Courses](https://www.codecademy.com/learn/paths/web-development)
 
 ## Foundational Topics
 * GIS
