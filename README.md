@@ -35,3 +35,9 @@ Collection of resources and examples to go along with a lecture on practical web
 * [Dumpster Fires](https://wprdc-maps.carto.com/u/wprdc/builder/2f0aa3d6-e945-4d8e-96a2-d9cd60a38aa0/embed)
 * [Super Mario Style](https://api.tiles.mapbox.com/v4/duncangraham.552f58b0/page.html?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ#5/36.580/-80.156)
 * [8Bit NY](http://8bitcity.com/map?New%20York)
+
+
+## Resources for Lecture 2
+* [Non-traffic Citation Data](https://data.wprdc.org/dataset/non-traffic-citations)
+* [PGH PLI Violations](https://data.wprdc.org/dataset/pittsburgh-pli-violations-report/resource/4e5374be-1a88-47f7-afee-6a79317019b4) - City of Pittsburgh Building Code Violations
+* [JSFiddle](https://jsfiddle.net/) - web-based code editor
