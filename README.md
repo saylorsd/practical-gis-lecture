@@ -40,4 +40,5 @@ Collection of resources and examples to go along with a lecture on practical web
 ## Resources for Lecture 2
 * [Non-traffic Citation Data](https://data.wprdc.org/dataset/non-traffic-citations)
 * [PGH PLI Violations](https://data.wprdc.org/dataset/pittsburgh-pli-violations-report/resource/4e5374be-1a88-47f7-afee-6a79317019b4) - City of Pittsburgh Building Code Violations
+* [Healthy Ride Stations](https://data.wprdc.org/dataset/healthyride-stations)
 * [JSFiddle](https://jsfiddle.net/) - web-based code editor
