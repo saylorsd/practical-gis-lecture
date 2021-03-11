@@ -1,9 +1,10 @@
 # Applied GIS on the Web
 Collection of resources and examples to go along with a lecture on practical web GIS.
 
-### [Slides (2019-03-19)](https://docs.google.com/presentation/d/1S8TPz5dEc4HpCpmMA7GbDDQ4vZCmkAGn4lR0vuC1ga8/edit?usp=sharing)
+**[Slides](https://docs.google.com/presentation/d/1ZKgkWQTrYVEeMJrqiCuTrrSbnB6Q7sPY-kRUC4kwMpg/edit?usp=sharing)**
 
-### [CodeAcademy: Web Development Courses](https://www.codecademy.com/learn/paths/web-development)
+**[CodeAcademy: Web Development Courses](https://www.codecademy.com/learn/paths/web-development)**
+**[JSFiddle](https://jsfiddle.net/) - web-based code editor**
 
 ## Foundational Topics
 * GIS
@@ -17,8 +18,8 @@ Collection of resources and examples to go along with a lecture on practical web
 * [ArcGIS](https://www.arcgis.com)
 
 ## JavaScript Frameworks
-* [Leaflet](https://leafletjs.com/) - easiest to learn. Not as fast as Mapbox GL.
-* [CARTO.js](https://carto.com/developers/carto-js/v3/) - works easily with geodata stored on carto. Renders maps using Leaflet.  
+* [Leaflet](https://leafletjs.com/) - easiest to learn.
+* [CARTO.js](https://carto.com/developers/carto-js/v3/) - works easily with geodata stored on carto. Renders maps using Leaflet.  No free accounts anymore. 😢
 * [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) - a bit complicated, but renders vector grapics very quickly. 
 * [react-map-gl](https://uber.github.io/react-map-gl/#/) - [React](https://reactjs.org/) components that render Mapbox GL maps. 
 
@@ -37,8 +38,3 @@ Collection of resources and examples to go along with a lecture on practical web
 * [8Bit NY](http://8bitcity.com/map?New%20York)
 
 
-## Resources for Lecture 2
-* [Non-traffic Citation Data](https://data.wprdc.org/dataset/non-traffic-citations)
-* [PGH PLI Violations](https://data.wprdc.org/dataset/pittsburgh-pli-violations-report/resource/4e5374be-1a88-47f7-afee-6a79317019b4) - City of Pittsburgh Building Code Violations
-* [Healthy Ride Stations](https://data.wprdc.org/dataset/healthyride-stations)
-* [JSFiddle](https://jsfiddle.net/) - web-based code editor
