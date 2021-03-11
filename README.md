@@ -27,6 +27,7 @@ Collection of resources and examples to go along with a lecture on practical web
 ## Other Resources
 * [Color Brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) - curated color ramps
 * [Leaftlet Privoder Demo](https://leaflet-extras.github.io/leaflet-providers/preview/) - demos and example code for different basemap tile servives
+* [Stamen](http://maps.stamen.com/#watercolor/12/37.7706/-122.3782) - pretty map tiles with CC licenses.
 
 ## Examples Used in Lecture
 * [Greenprint](https://tools.wprdc.org/urban-greenprint) - environmental planning tool
