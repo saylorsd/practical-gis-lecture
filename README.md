@@ -4,6 +4,7 @@ Collection of resources and examples to go along with a lecture on practical web
 **[Slides](https://docs.google.com/presentation/d/1ZKgkWQTrYVEeMJrqiCuTrrSbnB6Q7sPY-kRUC4kwMpg/edit?usp=sharing)**
 
 **[CodeAcademy: Web Development Courses](https://www.codecademy.com/learn/paths/web-development)**
+
 **[JSFiddle](https://jsfiddle.net/) - web-based code editor**
 
 ## Foundational Topics
