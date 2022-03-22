@@ -6,7 +6,7 @@ Collection of resources and examples to go along with a lecture on practical web
 **[CodeAcademy: Web Development Courses](https://www.codecademy.com/learn/paths/web-development)**
 
 **[JSFiddle](https://jsfiddle.net/) - web-based code editor**
-
+**[CodePen](https://codepen.io/pen) - web-based code editor**
 ## Foundational Topics
 * GIS
 * Web development basics (HTML, CSS, JS)
